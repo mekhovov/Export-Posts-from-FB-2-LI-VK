@@ -1,0 +1,13 @@
+h1. Export-Posts-from-FB-2-LI-VK
+
+Get Posts from Facebook and Post in to LinkedIn, Twitter, Vkontakte
+
+Used for LAMP User Group Dnipro
+
+Export news from:
+- Facebook: http://www.facebook.com/LAMPUserGroupDnipro
+
+Post news to:
+- LinkedIn: http://www.linkedin.com/groups/LAMP-User-Group-Dnipro-4025860
+- Twitter: https://twitter.com/#!/LAMP_user_group
+- Vkontakte: http://vkontakte.ru/lamp_user_group_dnipro
